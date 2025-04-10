@@ -1,0 +1,80 @@
+{
+    "COMMON": {
+        "PLACEHOLDERS": {
+            "GENDER": "Seleziona un genere"
+        },
+        "FIELDS": {
+            "NAME": "Nome",
+            "EMAIL": "Email",
+            "GENDER": "Genere"
+        },
+        "ERRORS": {
+            "REQUIRED": "*Campo obbligatorio: compila per proseguire",
+            "PATTERN": "*Formato errato"
+        },
+        "LABELS": {
+            "MALE": "Uomo",
+            "FEMALE": "Donna",
+            "CONFIRM": "Conferma",
+            "CANCEL": "Annulla",
+            "DELETE": "Elimina",
+            "EDIT": "Modifica",
+            "SEARCH_NO_RESULTS": "La ricerca non ha prodotto risultati",
+            "SETTINGS": "Impostazioni",
+            "LANGUAGE": "Lingua",
+            "THEME": "Tema",
+            "DARK_THEME": "Tema scuro",
+            "CHARACTERS_REMAINING": "{{characters}} caratteri rimanenti"
+        },
+        "LANGUAGES": {
+            "ITALIAN": "Italiano",
+            "ENGLISH": "Inglese"
+        }
+    },
+    "LOGIN": {
+        "TITLE": "Entra",
+        "BUTTON_TEXT": "Entra",
+        "HELPER_TEXT": "Non sei ancora registrato?",
+        "BUTTON_HELPER_TEXT": "Registrati",
+        "LOGIN_SUCCESS": "Login effettuata con successo",
+        "LOGIN_FAILED": "Utente non trovato o non esistente"
+    },
+    "REGISTER": {
+        "TITLE": "Registrati",
+        "BUTTON_TEXT": "Invia",
+        "HELPER_TEXT": "Sei già registrato?",
+        "BUTTON_HELPER_TEXT": "Accedi",
+        "REGISTER_SUCCESS": "Registrazione effettuata con successo",
+        "REGISTER_FAILED": "Ooops, qualcosa è andato storto",
+        "ERRORS": {
+            "EMAIL_ALREADY_TAKEN": "Email già in uso"
+        }
+    },
+    "POSTS": {
+        "COMMON": {
+            "FIELDS": {
+                "TITLE": "Titolo",
+                "BODY": "Testo"
+            }
+        },
+        "PAGE_TITLE": "I miei Post",
+        "ADD_POST_TITLE": "Crea un nuovo post",
+        "EDIT_POST_TITLE": "Modifica post",
+        "DELETE_POST_TITLE": "Elimina Post",
+        "DELETE_POST_WARNING": "Sei sicuro di voler eliminare questo post?",
+        "NEW_POST": "Nuovo post",
+        "CREATE_NEW_POST": "Crea un nuovo post",
+        "NO_POST": "Nessun post",
+        "ITEM": "Post",
+        "SEARCH_PLACEHOLDER": "Inserisci minimo {{characters}} caratteri",
+        "SEARCHING_HELPER_TEXT": "La ricerca viene effettuata solo tramite titolo del post"
+    },
+    "USERS": {
+        "MY_PROFILE": "Il mio profilo",
+        "EDIT_USER_PROFILE": "Modifica profilo",
+        "DELETE_USER_TITLE": "Elimina utente",
+        "DELETE_USER_WARNING": "Sei sicuro di voler eliminare il tuo utente?",
+        "EDIT_SUCCESS": "Utente modificato correttamente",
+        "EDIT_FAILED": "Ooops, qualcosa è andato storto"
+    }
+}

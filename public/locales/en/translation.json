@@ -1,0 +1,80 @@
+{
+    "COMMON": {
+        "PLACEHOLDERS": {
+            "GENDER": "Select a gender"
+        },
+        "FIELDS": {
+            "NAME": "Name",
+            "EMAIL": "Email",
+            "GENDER": "Gender"
+        },
+        "ERRORS": {
+            "REQUIRED": "*Mandatory field: compile to continue",
+            "PATTERN": "*Wrong format"
+        },
+        "LABELS": {
+            "MALE": "Male",
+            "FEMALE": "Female",
+            "CONFIRM": "Confirm",
+            "CANCEL": "Cancel",
+            "DELETE": "Delete",
+            "EDIT": "Edit",
+            "SEARCH_NO_RESULTS": "The search has no results",
+            "SETTINGS": "Settings",
+            "LANGUAGE": "Language",
+            "THEME": "Theme",
+            "DARK_THEME": "Dark mode",
+            "CHARACTERS_REMAINING": "{{characters}} characters remaining"
+        },
+        "LANGUAGES": {
+            "ITALIAN": "Italian",
+            "ENGLISH": "English"
+        }
+    },
+    "LOGIN": {
+        "TITLE": "Login",
+        "BUTTON_TEXT": "Login",
+        "HELPER_TEXT": "Not registered yet?",
+        "BUTTON_HELPER_TEXT": "Sign up",
+        "LOGIN_SUCCESS": "Login successfully",
+        "LOGIN_FAILED": "User not found or does not exist"
+    },
+    "REGISTER": {
+        "TITLE": "Sign up",
+        "BUTTON_TEXT": "Send",
+        "HELPER_TEXT": "Are you already registered?",
+        "BUTTON_HELPER_TEXT": "Login",
+        "REGISTER_SUCCESS": "Registration successfully",
+        "REGISTER_FAILED": "Oops, something went wrong",
+        "ERRORS": {
+            "EMAIL_ALREADY_TAKEN": "Email already in use"
+        }
+    },
+    "POSTS": {
+        "COMMON": {
+            "FIELDS": {
+                "TITLE": "Title",
+                "BODY": "Text"
+            }
+        },
+        "PAGE_TITLE": "My Post",
+        "ADD_POST_TITLE": "Create a new post",
+        "EDIT_POST_TITLE": "Edit post",
+        "DELETE_POST_TITLE": "Elimina Post",
+        "DELETE_POST_WARNING": "Are you sure to delete this post?",
+        "NEW_POST": "New post",
+        "CREATE_NEW_POST": "Create a new post",
+        "NO_POST": "No posts",
+        "ITEM": "Post",
+        "SEARCH_PLACEHOLDER": "Enter at least {{characters}} characters",
+        "SEARCHING_HELPER_TEXT": "The search is performed only by post's title"
+    },
+    "USERS": {
+        "MY_PROFILE": "My profile",
+        "EDIT_USER_PROFILE": "Edit profile",
+        "DELETE_USER_TITLE": "Delete user",
+        "DELETE_USER_WARNING": "Are you sure to delete your user?",
+        "EDIT_SUCCESS": "User edited successfully",
+        "EDIT_FAILED": "Oops, something went wrong"
+    }
+}

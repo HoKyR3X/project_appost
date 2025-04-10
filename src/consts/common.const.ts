@@ -1,0 +1,1 @@
+export const AVATAR_PLACEHOLDER_IMG = "https://ionicframework.com/docs/img/demos/avatar.svg";
