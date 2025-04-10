@@ -21,7 +21,6 @@ BASED ON: Go REST: https://gorest.co.in/
 ## Dependencies
 
 * NodeJS >= 20.9.0
-* NO GIT dependency, this project has no versioning
 * A free account registered on https://gorest.co.in/
 
 ## Getting Started
